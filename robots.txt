@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://tangly1024.com
+Host: https://github.com/BOTHSAVAGE
 
 # Sitemaps
-Sitemap: https://tangly1024.com/sitemap.xml
+Sitemap: https://github.com/BOTHSAVAGE/sitemap.xml
