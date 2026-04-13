@@ -4,9 +4,9 @@
     Allow: /
   
     # Host
-    Host: https://bothsavage.github.io/
+    Host: undefined
   
     # Sitemaps
-    Sitemap: https://bothsavage.github.io//sitemap.xml
+    Sitemap: undefined/sitemap.xml
   
     
