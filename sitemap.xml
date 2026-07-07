@@ -6,22 +6,22 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
     <loc>https://bothsavage.github.io</loc>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-07</lastmod>
     <changefreq>daily</changefreq>
     </url>
     <url>
     <loc>https://bothsavage.github.io/archive</loc>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-07</lastmod>
     <changefreq>daily</changefreq>
     </url>
     <url>
     <loc>https://bothsavage.github.io/category</loc>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-07</lastmod>
     <changefreq>daily</changefreq>
     </url>
     <url>
     <loc>https://bothsavage.github.io/tag</loc>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-07</lastmod>
     <changefreq>daily</changefreq>
     </url>
     <url>
@@ -37,6 +37,16 @@
     <url>
     <loc>https://bothsavage.github.io/article/240322-angry</loc>
     <lastmod>2024-03-21</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>https://bothsavage.github.io/article/260707-vllm-lora-2</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>https://bothsavage.github.io/article/260707-vllm-lora-1</loc>
+    <lastmod>2026-07-06</lastmod>
     <changefreq>daily</changefreq>
     </url>
     <url>
